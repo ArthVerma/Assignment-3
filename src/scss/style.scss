@@ -1,0 +1,11 @@
+$primary-color: white;
+$spacing: 16px;
+
+body{
+    background-color: rgb(174, 74, 74);
+    color: $primary-color;
+}
+
+header{
+    padding: $spacing;
+}
